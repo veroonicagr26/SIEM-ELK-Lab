@@ -1,4 +1,3 @@
-# SIEM-ELK-Lab
 # SIEM Lab con ELK Stack 🛡️
 
 Entorno SIEM funcional montado desde cero con Elastic Stack 8.x 

@@ -23,4 +23,5 @@ con usuario inexistente `usuariofake` desde 192.168.5.45
 - Ubuntu 26.04 registra estos eventos como `Invalid user` en lugar de 
   `Failed password` — diferencia identificada durante el análisis
 
+![Intentos SSH fallidos ](docs/screenshots/dashboardElastic.png)
 
